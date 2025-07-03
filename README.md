@@ -15,10 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## A little bit about me
-I am an **IT Professional** working in enterprise IT since 2018, but have had an interest in technology, really, all my life. I am based out of Northern Nevada and am currently working with the University of Nevada, Reno.
+I am an **IT Professional** working in enterprise IT since 2018, but have had an interest in technology, really, all my life. I am based out of Northern Nevada and am currently working with the **University of Nevada, Reno**.
+
 I have a *growth mindset* ↗️, and love learning! I have uploaded personal projects I have tackled here as well as on my portfolio website.
+
 My other links can be found here:
 -	[Beacons](https://briansalazar.me/)
+- [Resume](https://www.briansalazar.net/pages/resume.html)
 -	[Portfolio Website](https://briansalazar.net/)
 -	[LinkedIn](https://www.linkedin.com/in/briansalazar5/)
   
@@ -30,7 +33,7 @@ Outside of technology, I continue that growth mindset and have a big interest in
 Since 2020/2021, I have really taken a liking to running. I decided to compete in my first local race in 2024 and have continued to progress in my running journey.
 -	5K ✅
 -	10K ✅
--	Half Marathon ✅
+-	Half Marathon ✅ X3
 -	Marathon 🕝
   
 If you can, give me a kudos on [Strava](https://www.strava.com/athletes/133918317) 👍
