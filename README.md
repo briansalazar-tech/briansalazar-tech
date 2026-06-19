@@ -21,8 +21,8 @@ I have a *growth mindset* ↗️, and love learning! I have uploaded personal pr
 
 My other links can be found here:
 -	[Beacons](https://briansalazar.me/)
-- [Resume](https://www.briansalazar.net/pages/resume.html)
--	[Portfolio Website](https://briansalazar.net/)
+- [Resume](https://www.briansalazar.tech/resume)
+-	[Portfolio Website](https://briansalazar.tech/)
 -	[LinkedIn](https://www.linkedin.com/in/briansalazar5/)
   
 If you would like to contact me, **LinkedIn** would be the best platform.
@@ -33,7 +33,7 @@ Outside of technology, I continue that growth mindset and have a big interest in
 Since 2020, I have really taken a liking to running (welcome to the club 😉). I decided to compete in my first local race in 2024 and have continued to progress in my running journey.
 -	5K ✅
 -	10K ✅
--	Half Marathon ✅ X5
--	Marathon ✅
+-	Half Marathon ✅ X6
+-	Marathon ✅ X2
   
 If you can, give me a kudos on [Strava](https://www.strava.com/athletes/133918317) 👍
