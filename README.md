@@ -7,7 +7,7 @@ I have a *growth mindset* ↗️, and love learning! I have uploaded personal pr
 My other links can be found here:
 - [Beacons](https://briansalazar.me/)
 - [Resume](https://www.briansalazar.tech/resume)
-- [Portfolio Website & Links](https://briansalazar.tech/)
+- [Portfolio Website](https://briansalazar.tech/)
 - [LinkedIn](https://www.linkedin.com/in/briansalazar5/)
   
 If you would like to contact me, **LinkedIn** would be the best platform.
