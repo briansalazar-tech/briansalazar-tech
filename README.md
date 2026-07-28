@@ -5,10 +5,10 @@ I am an **IT Professional** working in enterprise IT since 2018, but have had an
 I have a *growth mindset* ↗️, and love learning! I have uploaded personal projects I have tackled here as well as on my portfolio website.
 
 My other links can be found here:
--	[Beacons](https://briansalazar.me/)
+- [Beacons](https://briansalazar.me/)
 - [Resume](https://www.briansalazar.tech/resume)
--	[Portfolio Website](https://briansalazar.tech/)
--	[LinkedIn](https://www.linkedin.com/in/briansalazar5/)
+- [Portfolio Website & Links](https://briansalazar.tech/)
+- [LinkedIn](https://www.linkedin.com/in/briansalazar5/)
   
 If you would like to contact me, **LinkedIn** would be the best platform.
 
