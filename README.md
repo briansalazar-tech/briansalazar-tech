@@ -18,7 +18,7 @@ Outside of technology, I continue that growth mindset and have a big interest in
 Since 2020, I have really taken a liking to running (welcome to the club 😉). I decided to compete in my first local race in 2024 and have continued to progress in my running journey.
 -	5K ✅
 -	10K ✅
--	Half Marathon ✅ X6
+-	Half Marathon ✅ X7
 -	Marathon ✅ X2
   
 If you can, give me a kudos on [Strava](https://www.strava.com/athletes/133918317) 👍
